@@ -1,3 +1,5 @@
 I am the student
 i am reading git hub
 merging the line
+we are adding conflict
+
